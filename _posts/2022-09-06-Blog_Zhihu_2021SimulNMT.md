@@ -1,6 +1,8 @@
+---
 layout: post
 title: 2021同传论文笔记
 categories: 同声传译
+---
 
 # [Faster Re-translation Using Non-Autoregressive Model For Simultaneous Neural Machine Translation](https://readpaper.com/pdf-annotate/note?pdfId=4500371553669242881&refIdx=Figure_1&noteId=725942132947828736)
 

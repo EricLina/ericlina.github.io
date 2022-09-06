@@ -1,6 +1,8 @@
+---
 layout: post
 title: Awesome Simultaneous Translation
 categories: 同声传译
+---
 
 # Awesome Simultaneous Translation
 
@@ -43,36 +45,36 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 [2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) |
 
-### `<a id="2002">`2002`</a>`
+### `<a id="2002">`2002 `</a>`
 
 - Translation Unit Concerning Timing of Simultaneous Translation. *LREC 2002*. [[PDF](http://www.lrec-conf.org/proceedings/lrec2002/pdf/136.pdf)]
 
-### `<a id="2006">`2006`</a>`
+### `<a id="2006">`2006 `</a>`
 
 - Simultaneous English-Japanese Spoken Language Translation Based on Incremental Dependency Parsing and Transfer. *ACL 2006*. [[PDF](https://aclanthology.org/P06-2088)]
 
-### `<a id="2007">`2007`</a>`
+### `<a id="2007">`2007 `</a>`
 
 - Simultaneous translation of lectures and speeches. *Mach Translat 2007*.  [[PDF](https://ccc.inaoep.mx/~villasen/bib/Simultaneous%20translation%20of%20lectures%20and%20speeches.pdf)]
 
-### `<a id="2009">`2009`</a>`
+### `<a id="2009">`2009 `</a>`
 
 - End-to-End Evaluation in Simultaneous Translation. *EACL 2009*. [[PDF](https://aclanthology.org/E09-1040)]
 
-### `<a id="2010">`2010`</a>`
+### `<a id="2010">`2010 `</a>`
 
 - Stream-based Translation Models for Statistical Machine Translation. *NAACL 2010*. [[PDF](https://aclanthology.org/N10-1062/)]
 - Construction of Chunk-Aligned Bilingual Lecture Corpus for Simultaneous Machine Translation. *LREC 2010*. [[PDF](http://www.lrec-conf.org/proceedings/lrec2010/pdf/581_Paper.pdf)]
 
-### `<a id="2012">`2012`</a>`
+### `<a id="2012">`2012 `</a>`
 
 - Real-time Incremental Speech-to-Speech Translation of Dialogs. *NAACL 2012*. [[PDF](https://aclanthology.org/N12-1048)]
 
-### `<a id="2013">`2013`</a>`
+### `<a id="2013">`2013 `</a>`
 
 - Incremental Segmentation and Decoding Strategies for Simultaneous Translation. *IJCNLP 2013*. [[PDF](https://aclanthology.org/I13-1141)]
 
-### `<a id="2014">`2014`</a>`
+### `<a id="2014">`2014 `</a>`
 
 - Optimizing Segmentation Strategies for Simultaneous Speech Translation. *ACL 2014*. [[PDF](https://aclanthology.org/P14-2090)]
 - Collection of a Simultaneous Translation Corpus for Comparative Analysis. *IREC 2014*. [[PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/162_Paper.pdf)]
@@ -80,13 +82,13 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - Towards Simultaneous Interpreting: the Timing of Incremental Machine Translation and Speech Synthesis. *IWSLT 2014*. [[PDF](https://aclanthology.org/2014.iwslt-papers.2)]
 - Segmentation Strategies for Streaming Speech Translation. *NAACL 2014*. [[PDF](https://www.aclweb.org/anthology/N13-1023)]
 
-### `<a id="2015">`2015`</a>`
+### `<a id="2015">`2015 `</a>`
 
 - Automated Simultaneous Interpretation: Hints of a Cognitive Framework for Machine Translation. *HyTra 2015*. [[PDF](https://aclanthology.org/W15-4106)]
 - Syntax-based Simultaneous Translation through Prediction of Unseen Syntactic Constituents. *ACL 2015*. [[PDF](https://aclanthology.org/P15-1020)]
 - Syntax-based Rewriting for Simultaneous Machine Translation. *EMNLP 2015*. [[PDF](https://aclanthology.org/D15-1006)]
 
-### `<a id="2016">`2016`</a>`
+### `<a id="2016">`2016 `</a>`
 
 - An Efficient and Effective Online Sentence Segmenter for Simultaneous Interpretation. *WAT 2016*. [[PDF](https://aclanthology.org/W16-4613)]
 - Interpretese vs. Translationese: The Uniqueness of Human Strategies in Simultaneous Interpretation. *NAACL 2016*. [[PDF](https://aclanthology.org/N16-1111)] [[Code](https://github.com/hhexiy/interpretese)]
@@ -95,12 +97,12 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - Simultaneous Machine Translation using Deep Reinforcement Learning. *ICML 2016*  [[PDF](http://docs.wixstatic.com/ugd/3195dc_538b63de8e2644b782db920c55f74650.pdf)]
 - Can neural Machine Translation do Simultaneous Translation? *Arxiv 2016*. [[PDF](https://arxiv.org/pdf/1606.02012)]
 
-### `<a id="2017">`2017`</a>`
+### `<a id="2017">`2017 `</a>`
 
 - Online and Linear-Time Attention by Enforcing Monotonic Alignments. *ICML 2017*. [[PDF](https://arxiv.org/pdf/1704.00784.pdf)] [[Code](https://github.com/craffel/mad)]
 - Learning to Translate in Real-time with Neural Machine Translation. *EACL 2017*.  [[PDF](https://aclanthology.org/E17-1099)] [[Code](https://github.com/yifanjun233/dl4mt-simul-trans)]
 
-### `<a id="2018">`2018`</a>`
+### `<a id="2018">`2018 `</a>`
 
 - Simultaneous Translation using Optimized Segmentation. *AMTA 2018*. [[PDF](https://aclanthology.org/W18-1815)]
 - Automatic Estimation of Simultaneous Interpreter Performance. *ACL 2018*. [[PDF](https://aclanthology.org/P18-2105)] [[Code](https://github.com/craigastewart/qe_sim_interp)]
@@ -110,7 +112,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - KIT Lecture Translator: Multilingual Speech Translation with One-Shot Learning. *COLING 2018*. [[PDF](https://aclanthology.org/C18-2020)]
 - Monotonic Chunkwise Attention. *ICLR 2018*. [[PDF](https://openreview.net/pdf?id=Hko85plCW)]  [[Code](https://github.com/craffel/mocha)]
 
-### `<a id="2019">`2019`</a>`
+### `<a id="2019">`2019 `</a>`
 
 - Monotonic Infinite Lookback Attention for Simultaneous Machine Translation. *ACL 2019*. [[PDF](https://aclanthology.org/P19-1126)]
 - STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework. *ACL 2019*. [[PDF](https://aclanthology.org/P19-1289)]
@@ -122,7 +124,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting. *Arxiv 2019*. [[PDF](https://arxiv.org/pdf/1907.12984)]
 - Simultaneous Neural Machine Translation using Connectionist Temporal Classification. *Arxiv 2019*. [[PDF](https://arxiv.org/pdf/1911.11933.pdf)]
 
-### `<a id="2020">`2020`</a>`
+### `<a id="2020">`2020 `</a>`
 
 - Towards Multimodal Simultaneous Neural Machine Translation. *WMT 2020*. [[PDF](https://aclanthology.org/2020.wmt-1.70)] [[Code](https://github.com/toshohirasawa/mst)]
 - Opportunistic Decoding with Timely Correction for Simultaneous Translation. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.42.pdf)]
@@ -143,7 +145,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - Simultaneous Speech-to-Speech Translation System with Neural Incremental ASR, MT, and TTS. *Arxiv 2020*.  [[PDF](https://arxiv.org/pdf/2011.04845.pdf)]
 - Low Latency ASR for Simultaneous Speech Translation. *Arxiv 2020*.  [[PDF](https://arxiv.org/pdf/2003.09891)]
 
-### `<a id="2021">`2021`</a>`
+### `<a id="2021">`2021 `</a>`
 
 - [ ] Monotonic Simultaneous Translation with Chunk-wise Reordering and Refinement. *WMT2021*. [[PDF](https://aclanthology.org/2021.wmt-1.119.pdf)]
 - [ ] Simultaneous Neural Machine Translation with Constituent Label Prediction. *WMT 2021*. [[PDF](https://aclanthology.org/2021.wmt-1.120.pdf)]
@@ -177,7 +179,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - [ ] Decision Attentive Regularization to Improve Simultaneous Speech Translation Systems. *Arxiv 2021*. [[PDF](https://arxiv.org/pdf/2110.15729)]
 - [ ] Direct Simultaneous Speech-to-Speech Translation with Variational Monotonic Multihead Attention. *Arxiv 2021*. [[PDF](https://arxiv.org/pdf/2110.15729)]
 
-### `<a id="2022">`2022`</a>`
+### `<a id="2022">`2022 `</a>`
 
 - Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.176.pdf)] [[Code](https://github.com/ictnlp/Dual-Path)]
 - Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.467.pdf)]
