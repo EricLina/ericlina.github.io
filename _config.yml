@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Blog
+name: Ikun🐓Blog
 
 # Name of the author
-author: Alex Plaskett
+author: Eric Lina
 
 # Short bio or description (displayed in the header)
-description: Random Security Research
+description: just because you are so beautiful
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/avatar.jpg
+avatar: /images/BlogProfile.jpg
 
 #
 # Flags below are optional
@@ -27,12 +27,12 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: alexjplaskett
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  github: alexplaskett
+  github: EricLina
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -44,8 +44,8 @@ google_analytics: UA-163675203-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://alexplaskett.github.io
-enforce_ssl: https://alexplaskett.github.io
+url: https://ericlina.github.io
+enforce_ssl: https://ericlina.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
